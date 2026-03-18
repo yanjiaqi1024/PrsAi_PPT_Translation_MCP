@@ -13,8 +13,9 @@
 ## 获取 VERIFICATION_CODE 方式
 
 1. 登录 PrsAi 官网（https://www.prsai.cc/）。
-2. 发送邮件至 xiulong.zhai@gemii.cc，请求获取 API Key。
-3. 邮件发送成功后1小时内等待回复。
+2. 微信扫码入群，请求获取 VERIFICATION_CODE。
+<img width="396" height="396" alt="2026_03_18_17_54_34" src="https://github.com/user-attachments/assets/456079e0-f091-4b5f-8d0e-d7d44fac66c6" />
+
 
 ## 目录结构
 
