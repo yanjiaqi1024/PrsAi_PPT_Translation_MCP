@@ -3,8 +3,8 @@ from mcp.server.fastmcp import FastMCP
 from pydantic import Field
 
 # 初始化 MCP 服务器实例
-# "My Python MCP Server" 是服务器名称，log_level 可以设置为 INFO/DEBUG/ERROR
-mcp = FastMCP("My Python MCP Server", log_level="INFO")
+# "PrsAiPPT MCP Server" 是服务器名称，log_level 可以设置为 INFO/DEBUG/ERROR
+mcp = FastMCP("PrsAiPPT MCP Server", log_level="INFO")
 
 # =====================================================================
 # 下面是工具 (Tools) 注册示例，供 AI 调用的函数
